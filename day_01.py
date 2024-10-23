@@ -1,6 +1,6 @@
 """
 
-Advent of code 2023 solution
+Advent of code 2023 day 1 solution (written in Python)
     by stafford-m
     
 - the "numbers" dictionary is like that because the act of replacing the values in the 
